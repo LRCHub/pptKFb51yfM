@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "Luv Myself（feat. AKLO、KEIJU）",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2026-03-27T01:25:24.270881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Luv Myself (feat. AKLO & KEIJU)",
+      "artist": "Kvi Baba",
+      "has_synced": true,
+      "path": "select/01_Luv_Myself_(feat._AKLO_&_KEIJU)_Kvi_Baba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Luv Myself (feat. AKLO & KEIJU)",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/02_Luv_Myself_(feat._AKLO_&_KEIJU)_Kvi_Baba.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Luv Myself（feat. AKLO、KEIJU）",
+      "artist": "Kvi Baba",
+      "has_synced": true,
+      "path": "select/localdb_01_Luv_Myself(feat._AKLO、KEIJU)_Kvi_Baba.lrc",
+      "repo_name": "pptKFb51yfM"
+    }
+  ]
+}
